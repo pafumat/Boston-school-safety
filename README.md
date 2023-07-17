@@ -12,5 +12,7 @@ There are 2 maps, one for 2022 and one for 2023, but the school year doesn't sta
 On the map, there are three things, first, there are the schools with a blue icon and a popup with the name of the school.
 Second, we have crimes in red and have a popup displaying the description of the crime, and the date at which the crime occurred. 
 Third, we have a blue radius around each school that represent the size of 2 football fields to indicate the crimes inside the radius are close to the schools,
-in addition to that it allows us to do some calculation and this is why below the map there is a widget that will display what crimes happened in which school radius,
+in addition to that it allows us to do some calculations and this is why below the map there is a widget that will display what crimes happened in which school radius,
 so we can see which school has had the most crimes within this radius, making also possible a comparison between the 2021-2022 school year. 
+
+It is a clear way to visualize which school is more at risk of witnessing shooting-related crimes at school and also shows that it is often in more violent neighborhoods that violent crimes happen, clearly begging the question, should some schools be safer than others? Is it fair for the children to be in an environment that is less fair than others? possibly creating disparities in educational outcomes.
